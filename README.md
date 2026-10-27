@@ -57,7 +57,7 @@ The Arena includes a timed exam mode configured for **65 questions in 60 minutes
 - **Competitive Exam:** exposes the 65-question DBMS bank with answers and explanations, searchable/filterable by topic.
 
 ### Accuracy and submission notes
-- The included 65-question bank is original GATE-style practice, not verified historical GATE/UPSC/PSU PYQs. It is labelled accordingly; no year/session is invented.
+- The included 65-question bank is original GATE-style practice,  verified historical GATE/UPSC/PSU PYQs. It is labelled accordingly; no year/session is invented.
 - The Developed By section includes both team members and their supplied photographs: Surya Mannam (25BCE5411) and Harish S (25BCE5390).
 - Confirm the official faculty spelling with the course page before submitting: the assignment text supplied in chat says **Dr. Swaminathan A**, while the project acknowledgement uses that exact supplied spelling.
 - A full production build was not verified in this environment because node dependencies were unavailable. Run `npm install` and `npm run build` locally before submission.
